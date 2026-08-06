@@ -3,7 +3,6 @@
 The Unified Education System is a full-stack web application designed to simplify academic management by providing a centralized platform for students, faculty, and administrators. The system enables efficient management of student records, courses, attendance, and academic information through an easy-to-use interface.
 
 ## 🚀 Features
-
 - 🔐 Secure User Authentication
 - 👨‍🎓 Student Management
 - 👨‍🏫 Faculty Management
