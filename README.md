@@ -83,18 +83,6 @@ mvn spring-boot:run
 http://localhost:8080
 ```
 
-## 📸 Screenshots
-
-Include screenshots of:
-
-- Home Page
-- Login Page
-- Student Dashboard
-- Faculty Dashboard
-- Course Management
-- Attendance Management
-- Student Profile
-
 ## 🎯 Future Enhancements
 
 - AI-powered Student Performance Analysis
