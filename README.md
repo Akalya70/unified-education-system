@@ -27,6 +27,16 @@ Faculty profile management
 Course assignment
 Attendance recording
 Student records access
+
+
+🏫 Administration
+Student management
+Faculty management
+Course management
+Enrollment oversight
+Attendance management
+Centralized academic dashboard
+
 ## 🛠️ Tech Stack
 
 ### Frontend
