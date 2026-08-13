@@ -13,6 +13,14 @@ The Unified Education System is a full-stack web application designed to simplif
 - 📂 Profile Management
 - 📱 Responsive User Interface
 
+
+👨‍🎓 Student Module
+Secure login & authentication
+Personal profile management
+Course enrollment
+Attendance overview
+Academic dashboard
+
 ## 🛠️ Tech Stack
 
 ### Frontend
