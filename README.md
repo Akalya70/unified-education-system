@@ -21,6 +21,12 @@ Course enrollment
 Attendance overview
 Academic dashboard
 
+
+👨‍🏫 Faculty Module
+Faculty profile management
+Course assignment
+Attendance recording
+Student records access
 ## 🛠️ Tech Stack
 
 ### Frontend
