@@ -123,8 +123,6 @@ Administrators manage centralized system information and application-level opera
 | Persistence     | Spring Data JPA |
 | Database        | MySQL           |
 | API             | REST API        |
-| Build Tool      | Maven           |
-| API Testing     | Postman         |
 | Version Control | Git & GitHub    |
 
 ---
@@ -382,27 +380,7 @@ This project demonstrates:
 🚀 Deployment
 ```
 
----
 
-## 👩‍💻 Developer
-
-**Akalya Murugesan**
-
-Computer Science & Engineering
-
----
-
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
----
-
-## 📄 License
-
-This project is developed for academic, educational, and professional portfolio purposes.
-
-© 2026 **Akalya Murugesan**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5ED,100:2193B0&height=120&section=footer" width="100%"/>
