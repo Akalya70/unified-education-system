@@ -346,7 +346,6 @@ This project demonstrates:
 * Object-Oriented Programming
 * MVC architecture
 * REST API development
-* Dependency Injection
 * Spring Boot
 * Spring Data JPA
 * CRUD operations
