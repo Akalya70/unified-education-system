@@ -380,7 +380,6 @@ This project demonstrates:
 ```
 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5ED,100:2193B0&height=120&section=footer" width="100%"/>
 </p>
