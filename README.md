@@ -215,7 +215,7 @@ ROLE
 
 Install:
 
-* Java 21 or compatible Java version
+* Java 21 
 * Maven
 * MySQL
 * Git
