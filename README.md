@@ -37,6 +37,7 @@ The Unified Education System addresses these challenges by providing a centraliz
 
 ## 💡 Proposed Solution
 
+
 The application provides a single platform where different users can access functionality according to their role.
 
 ```text
