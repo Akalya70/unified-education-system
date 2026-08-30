@@ -22,6 +22,7 @@ The application aims to simplify academic operations by bringing different educa
 
 ---
 
+
 ## 🎯 Problem Statement
 
 Educational institutions often manage student, faculty, academic, and administrative information across multiple systems.
