@@ -16,6 +16,7 @@
 ## 📌 Overview
 
 
+
 **Unified Education System** is a full-stack web application designed to centralize academic management and provide a common platform for **students, faculty, and administrators**.
 
 The application aims to simplify academic operations by bringing different educational activities into a unified digital platform.
