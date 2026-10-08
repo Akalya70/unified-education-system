@@ -130,7 +130,6 @@ Administrators manage centralized system information and application-level opera
 | Version Control | Git & GitHub    |
 
 ---
-
 ## 📂 Project Structure
 
 ```text
