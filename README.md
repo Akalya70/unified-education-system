@@ -29,7 +29,6 @@ This can result in:
 * Limited accessibility
 * Communication gaps
 * Increased administrative effort
-
 The Unified Education System addresses these challenges by providing a centralized platform.
 
 ---
